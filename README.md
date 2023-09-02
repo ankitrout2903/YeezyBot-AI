@@ -1,9 +1,9 @@
 # YeezyBot AI - AI Bot Mimicking Kanye West 🎙️
 
+The **YeezyBot AI** is an innovative and entertaining AI-powered application that mimics the iconic personality of Kanye West. In this course, we've taken you on a journey to build your very own AI bot that can emulate the style and speech of the legendary artist.
+
 <img width="382" alt="image" src="https://github.com/ankitrout2903/Open-ai/assets/88599131/5e7c1c18-636f-47f9-a6de-8b4bc7950bca">
 
-
-The **YeezyBot AI** is an innovative and entertaining AI-powered application that mimics the iconic personality of Kanye West. In this course, we've taken you on a journey to build your very own AI bot that can emulate the style and speech of the legendary artist.
 
 ## What YeezyBot AI Offers:
 
