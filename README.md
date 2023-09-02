@@ -77,7 +77,7 @@ Follow these steps to set up the server locally:
    python3 server.py
    ```
 
-   Make sure your terminal is in the root directory `kanye-ai` for the commands to work correctly.
+4. Your frontend will be accessible at `http://localhost:3000`.
 
 Now, you've successfully set up both the frontend and backend of the YeezyBot AI application locally. You can interact with the bot and see it in action on your own machine. Enjoy your conversations with Kanye-inspired AI!
 
