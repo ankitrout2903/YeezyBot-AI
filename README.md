@@ -77,7 +77,7 @@ Follow these steps to set up the server locally:
    python3 server.py
    ```
 
-4. Your frontend will be accessible at `http://localhost:3000`.
+4. Your frontend will be accessible at `http://localhost:8080`.
 
 Now, you've successfully set up both the frontend and backend of the YeezyBot AI application locally. You can interact with the bot and see it in action on your own machine. Enjoy your conversations with Kanye-inspired AI!
 
