@@ -17,6 +17,70 @@ The **YeezyBot AI** is an innovative and entertaining AI-powered application tha
 
 - **Local Deployment**: You'll learn how to set up a local API server to run your YeezyBot AI and see it in action on your own machine.
 
+  Certainly! Here's a summary of the technologies used in the YeezyBot AI application and instructions for setting up the server locally:
+
+## Technologies Used
+
+- **Python**: The primary programming language used for backend development and AI model training.
+
+- **Flask**: A lightweight web framework for building the backend server and API.
+
+- **Next.js**: A popular React framework for building the frontend of the application, providing server-side rendering and routing.
+
+- **MindsDB**: A machine learning platform used for training and fine-tuning the AI model to emulate Kanye West's style and personality.
+
+- **OpenAI API**: Leveraged to integrate text generation capabilities into the AI model, enabling natural language conversations.
+
+## Setting Up the Server Locally
+
+Follow these steps to set up the server locally:
+
+### Frontend (Client) Setup
+
+1. Open your terminal and navigate to the client directory:
+
+   ```bash
+   cd client
+   ```
+
+2. Install the necessary dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Your frontend will be accessible at `http://localhost:3000`.
+
+### Backend (Server) Setup
+
+1. Navigate to the server directory:
+
+   ```bash
+   cd server
+   ```
+
+2. Install the required Python dependencies by running:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Start the backend server by executing:
+
+   ```bash
+   python3 server.py
+   ```
+
+   Make sure your terminal is in the root directory `kanye-ai` for the commands to work correctly.
+
+Now, you've successfully set up both the frontend and backend of the YeezyBot AI application locally. You can interact with the bot and see it in action on your own machine. Enjoy your conversations with Kanye-inspired AI!
+
 ## What I have learned throughout this project:
 
 Throughout this course, you've achieved the following:
